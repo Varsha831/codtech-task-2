@@ -1,6 +1,8 @@
 NAME : VARSHA.R COMPANY : CODTECH IT SOLUTIONS ID : CT08DS6666 DOMAIN : DATA SCIENTIST DURATION : AUGUST 5TH 2024 TO SEPTEMBER 5TH 2024
 
 Overview of the Project
+project : PREDICTIVE MODELING WITH LINEAR REGRESSION
+
 This project involves implementing a simple linear regression model to predict a continuous target variable using a dataset. The project includes data preparation, model training, evaluation, and visualization to assess the model's performance. It aims to demonstrate the practical application of linear regression for predictive analytics.
 
 Objective
